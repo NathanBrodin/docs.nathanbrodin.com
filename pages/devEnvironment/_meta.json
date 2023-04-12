@@ -1,0 +1,7 @@
+{
+    "powershell": "Powershell",
+    "git": "Git",
+    "visualstudio": "Visual Studio Code",
+    "wsl": "Windows Subsystem for Linux",
+    "tools": "Tools"
+}

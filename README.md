@@ -1,23 +1,14 @@
-# Nextra Docs Template 
+# Introduction
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Welcome to this comprehensive guide for the installation of *Windows 11*, tailored specifically to those who desire a clean and complete installation of the operating system. 
+This guide is designed to provide you with a step-by-step walkthrough of the installation process, as well as recommendations and insights based on years of experience with Windows.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+![](/images/overview.png)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+My name is [**Nathan**](https://github.com/NathanBrodin), and I have spent countless hours customizing and perfecting my own Windows installation. 
+Through trial and error, I have discovered the most efficient methods and tools to achieve a clean and optimized installation, and I am excited to share my insights with you.
 
-## Quick Start
+Throughout this guide, you will find clear and concise instructions, tips, and recommendations that will help you to create a stable and personalized Windows 11 environment. 
+Whether you are a power user looking to optimize your system for maximum performance, or a casual user simply looking for a clean installation, this guide has everything you need to get started.
 
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+So, let's begin our journey towards a perfect Windows 11 installation, and unlock the full potential of your system!
