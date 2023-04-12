@@ -3,7 +3,7 @@
 Welcome to this comprehensive guide for the installation of *Windows 11*, tailored specifically to those who desire a clean and complete installation of the operating system. 
 This guide is designed to provide you with a step-by-step walkthrough of the installation process, as well as recommendations and insights based on years of experience with Windows.
 
-![](/images/overview.png)
+![](/public/images/images/overview.png)
 
 My name is [**Nathan**](https://github.com/NathanBrodin), and I have spent countless hours customizing and perfecting my own Windows installation. 
 Through trial and error, I have discovered the most efficient methods and tools to achieve a clean and optimized installation, and I am excited to share my insights with you.
